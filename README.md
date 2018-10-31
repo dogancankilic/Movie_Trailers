@@ -1,6 +1,6 @@
 # Movie Trailers
 
-Movie Trailers listed in RecyclerView and reaching data from JSON file
+Movie Trailers listed in RecyclerView and fetching data from JSON file
 
 ## Getting Started
 
